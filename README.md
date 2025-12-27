@@ -41,7 +41,7 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 #### 🌐 Networking
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/GNS3-Network%20Simulation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco" />
+  <img src="https://img.shields.io/badge/GNS3" />
 </p>
 
