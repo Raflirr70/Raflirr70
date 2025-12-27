@@ -27,8 +27,20 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 </div>
 
+### 🛠️ Keahlian & Teknologi
+
+#### 💻 Programming & Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,php,js" />
-  <img src="https://skillicons.dev/icons?i=c++,dart,java" />
-  <img src="https://skillicons.dev/icons?i=laravel,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,php,js,cpp,cs,dart,java&perline=8" />
 </p>
+
+#### ⚙️ Framework & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,flutter&perline=6" />
+</p>
+
+#### 🌐 Networking
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cisco,gns3&perline=6" />
+</p>
+
