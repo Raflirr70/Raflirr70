@@ -41,7 +41,7 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 #### 🌐 Networking
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/GNS3-Lab-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/GNS3-lightgrey?style=for-the-badge" />
 </p>
 
