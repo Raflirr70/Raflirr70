@@ -15,9 +15,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,vscode,linux" />
-</p>
 
 <div align="left">
   <!--START_SECTION:waka-->
@@ -29,5 +26,9 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 </div>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,vscode,linux" />
+</p>
 "# Raflirr70" 
 "# Raflirr70" 
