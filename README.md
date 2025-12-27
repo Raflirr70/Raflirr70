@@ -41,6 +41,7 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 #### 🌐 Networking
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cisco,gns3&perline=6" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/GNS3-Network%20Simulation-orange?style=for-the-badge" />
 </p>
 
