@@ -28,7 +28,7 @@ YAML   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </div>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,php,js" />
+  <img src="https://skillicons.dev/icons?i=c++,dart,java" />
+  <img src="https://skillicons.dev/icons?i=laravel,flutter" />
 </p>
-"# Raflirr70" 
-"# Raflirr70" 
