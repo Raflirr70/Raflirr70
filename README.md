@@ -15,12 +15,12 @@
 
 #### 💻 Programming & Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,php,js,cpp,cs,dart,java&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,php,js,cpp,cs,dart,java,golang&perline=8" />
 </p>
 
 #### ⚙️ Framework & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,flutter,gin&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,flutter&perline=6" />
 </p>
 
 #### 🌐 Networking
