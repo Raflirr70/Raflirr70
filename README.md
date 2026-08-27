@@ -20,7 +20,7 @@
 
 #### ⚙️ Framework & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,flutter&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,gin&perline=6" />
 </p>
 
 #### 🌐 Networking
